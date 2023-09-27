@@ -5,8 +5,8 @@ Created on Wed Sep 13 19:06:06 2023
 @author: 97154
 """
 """
-exercise 3 print date and time
-"""""
+Exercise 3 Write a Python program to display the current date and time.
+"""
 import datetime
 now = datetime.datetime.now()
 print ("Current date and time : ")
