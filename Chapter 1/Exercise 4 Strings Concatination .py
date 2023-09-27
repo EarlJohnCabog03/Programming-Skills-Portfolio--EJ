@@ -5,7 +5,7 @@ Created on Wed Sep 13 19:14:24 2023
 @author: 97154
 """
 """
-Exercise 4: Strings Concatination
+Exercise 4: Write three strings in different variables and print the output as one string.
 """
 
 #how to print a string
