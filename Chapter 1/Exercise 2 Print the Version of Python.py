@@ -4,6 +4,8 @@ Created on Wed Sep 13 19:19:21 2023
 
 @author: 97154
 """
+"""
+"""
 
 import sys
 print("Python version")
