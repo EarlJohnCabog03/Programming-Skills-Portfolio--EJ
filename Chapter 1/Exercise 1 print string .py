@@ -6,7 +6,8 @@ Created on Tue Sep 12 14:32:36 2023
 """
 
 """
-Twinkle little starWrite a Python program to print the following string in a specific format.
+
+Write a Python program to print the following string in a specific format.
 
 Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are.
 """
