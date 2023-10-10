@@ -20,7 +20,8 @@ if alien_color == 'green':
     print("Congratulations! You just earned 5 points for shooting the green alien.")
 else:
     print("Congratulations! You just earned 10 points for shooting the alien.")
-In the first version, the alien_color is 'green,' so the if condition is met, and it prints the message in the if block. In the second version, the alien_color is 'red' (or any color other than 'green'), so the if condition is not met, and it prints the message in the else block.
+#In the first version, the alien_color is 'green,' so the if condition is met, and it prints the message in the if block. 
+#In the second version, the alien_color is 'red' (or any color other than 'green'), so the if condition is not met, and it prints the message in the else block.
 
 
 
