@@ -13,7 +13,7 @@ Question Chapter 3 Exercise 2.
 #personalized with the person’s name.
 
 Explanation :
-#use a for loop to iterate through the names list and create a
+#Use a for loop to iterate through the names list and create a
 #personalized message for each person by including their name in the message. Each message is printed with the respective person's name.
 """
 #Code:
