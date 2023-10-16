@@ -12,11 +12,13 @@ Question:
 
 
 """
+"""
+
 Explanation.
 #This code uses the \t and \n characters for whitespace and demonstrates the effects of the lstrip(), rstrip(), and strip() 
 #functions to remove the leading, trailing, and both leading and trailing whitespace, respectively.
 """
-
+"""
 #Code:
 # Define a person's name with whitespace
 name = "\t \n   John Doe   \t \n"
@@ -36,3 +38,6 @@ print(name.rstrip())
 # Print the name after stripping from both sides
 print("Stripped Name:")
 print(name.strip())
+
+"""
+"""
