@@ -4,6 +4,15 @@ Created on Mon Oct  9 11:21:45 2023
 
 @author: 97154
 """
+"""
+"""
+Question Chapter 6 Exercise 2.
+#A movie theater charges different ticket prices depending on a person’s age. If a person is under the age of 3, the ticket is free; if
+#they are between 3 and 12, the ticket is $10; and if they are over age 12, the ticket is $15. Write a loop in which you ask users their
+#age, and then tell them the cost of their movie ticket
+
+   
+Explanation:
 #We use a while loop to repeatedly prompt the user for their age.
 #Inside the loop, we use the input function to get the user's age as input.
 #We check if the user entered 'quit' (case-insensitive) to exit the loop. If they did, the loop ends.
