@@ -7,21 +7,21 @@ Created on Wed Sep 13 19:14:24 2023
 """
 Exercise 4: Strings Concatination
 """
+Question Chapter 1 Excersice 4
+#Write three strings in different variables and print the output as one string.
 
-#how to print a string
-print("Hello world")
+Explanation:
+#three strings (string1, string2, and string3), and we concatenate them using the +
+#operator to form one combined string in the result variable, which is then printed.
+"""
+#Code:
+"""
 
-#how to print an integer
-print(3)
+string1 = "Hello, "
+string2 = "world!"
+string3 = " How are you?"
 
-#how to print a variable 
-#to just print the variable on its own include only the name of it
-
-fave_language = "Python"
-print(fave_language)
-
-#output
-
-#Hello world
-#7
-#Python
+result = string1 + string2 + string3
+print(result)
+"""
+"""
