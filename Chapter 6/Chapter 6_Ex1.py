@@ -7,7 +7,7 @@ Created on Mon Oct  9 11:18:18 2023
 """
 """
 Question Chapter 6 Exercise 1
-#ExWrite a loop that prompts the user to enter a series of pizza toppings until they enter a 'quit' value. As they enter each topping,
+#Write a loop that prompts the user to enter a series of pizza toppings until they enter a 'quit' value. As they enter each topping,
 #print a message saying you’ll add that topping to their pizza.
 
 Explanation:
