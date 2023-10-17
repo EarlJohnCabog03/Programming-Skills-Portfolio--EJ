@@ -15,11 +15,9 @@ Explanation:
 """
 #Code:
 """
-print("Twinkle, twinkle, little star,")
-print("    How I wonder what you are!")
-print("        Up above the world so high,")
-print("        Like a diamond in the sky.")
-print("Twinkle, twinkle, little star,")
-print("    How I wonder what you are!")
+print("Twinkle, twinkle, little star,\n\tHow I wonder what you are!\n\t\t
+Up above the world so high, \n\t\tLike a diamond in the sky.
+\nTwinkle, twinkle, little star,\n\t    
+How I wonder what you are!")
 """
 """
