@@ -17,8 +17,7 @@ Question Chapter 2 Exercise 3:
 Explanation.
 #This code uses the \t and \n characters for whitespace and demonstrates the effects of the lstrip(), rstrip(), and strip() 
 #functions to remove the leading, trailing, and both leading and trailing whitespace, respectively.
-"""
-"""
+
 #Code:
 # Define a person's name with whitespace
 name = "\t \n   John Doe   \t \n"
