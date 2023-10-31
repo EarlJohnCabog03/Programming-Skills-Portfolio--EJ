@@ -5,8 +5,7 @@ Question Chapter 2 Exercise 2
 Explanation.
 #When you run this Python code, it will output the quote along with the author's name in the desired format.
 #Code
-"""
-"""
+
 quote = "A person who never made a mistake never tried anything new."
 author = "Albert Einstein"
 
